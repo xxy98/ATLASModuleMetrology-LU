@@ -83,12 +83,10 @@ int get_line_num(std::string path, std::string name) {
     return num;
 }
 
-//Chao De
 constexpr size_t HASH_STRING_PIECE(const char *string_piece,size_t hashNum=0){
     return *string_piece?HASH_STRING_PIECE(string_piece+1,(hashNum*131)+*string_piece):hashNum;
 }
 
-//Chao De
 constexpr size_t operator "" _HASH(const char *string_pice,size_t){
     return HASH_STRING_PIECE(string_pice);
 }
