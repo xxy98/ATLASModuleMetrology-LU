@@ -1,0 +1,7 @@
+Item 3, Optical.
+(0, 0, 14.347)| Ini. p.: (0, 0, 0) | Dir: (-0.00045178, 1.8462e-05, 1) | Len.:1 |
+ and the standard deviation is 0.0067527 mm.
+(0, 0, 26.535)| Ini. p.: (0, 0, 0) | Dir: (-0.00048579, -0.0022982, 1) | Len.:1 |
+ and the standard deviation is 0.0054902 mm.
+The height difference is 0.16928 mm.
+The height difference is 12.188 mm.

@@ -1,0 +1,7 @@
+(0, 0, 35.029)| Ini. p.: (0, 0, 0) | Dir: (0.00015134, -1.3895e-05, 1) | Len.:1 |
+ and the standard deviation is 0.0091149 mm.
+(0, 0, 38.926)| Ini. p.: (0, 0, 0) | Dir: (-0.00052628, -6.9272e-05, 1) | Len.:1 |
+ and the standard deviation is 0.019397 mm.
+(0, 0, 39.99)| Ini. p.: (0, 0, 0) | Dir: (-0.00012562, 5.1239e-06, 1) | Len.:1 |
+ and the standard deviation is 0.036523 mm.
+#4 is 3.8973 mm and #5 is 4.9606 mm.

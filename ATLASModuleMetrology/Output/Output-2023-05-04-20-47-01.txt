@@ -1,0 +1,9 @@
+Item 3, Touch Probe.
+(0, 0, 33.686)| Ini. p.: (0, 0, 0) | Dir: (-0.00049271, 1.5711e-05, 1) | Len.:1 |
+ and the standard deviation is 0.011112 mm.
+(0, 0, -5751.7)| Ini. p.: (0, 0, 0) | Dir: (2.5315e-05, 0.99989, -0.014568) | Len.:1 |
+ and the standard deviation is 1.8945e-05 mm.
+(0, 0, 45.735)| Ini. p.: (0, 0, 0) | Dir: (0.00057858, -0.0061217, 0.99998) | Len.:1 |
+ and the standard deviation is 0.060155 mm.
+The height difference is -5785.4 mm.
+The height difference is 12.049 mm.

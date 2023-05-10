@@ -1,0 +1,5 @@
+(0, 0, 29.415)| Ini. p.: (0, 0, 0) | Dir: (0.00081541, 0.0023439, 1) | Len.:1 |
+ and the standard deviation is 0.09442 mm.
+(0, 0, 33.468)| Ini. p.: (0, 0, 0) | Dir: (0.00055195, -0.0045511, 0.99999) | Len.:1 |
+ and the standard deviation is 0.025138 mm.
+The height difference is 4.0528 mm.

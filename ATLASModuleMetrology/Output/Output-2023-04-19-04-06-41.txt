@@ -1,0 +1,61 @@
+
+The 4th corner is 0.00545081 mm away from the reference plane.
+
+The 4th corner is 0.00248736 mm away from the #4 plane.
+
+The 4th corner is 0.0197745 mm away from the #5 plane.
+
+Z in x for #4: 
+3.99529 ± 0.00917 mm
+3.99819 ± 0.00911 mm
+4.00035 ± 0.00834 mm
+4.00128 ± 0.01011 mm
+4.00330 ± 0.00992 mm
+
+Z in y for #4: 
+3.98596 ± 0.00367 mm
+3.99205 ± 0.00201 mm
+3.99921 ± 0.00283 mm
+4.00724 ± 0.00222 mm
+4.01395 ± 0.00196 mm
+
+Z in x for #5: 
+4.98688 ± 0.00321 mm
+4.99554 ± 0.00615 mm
+4.99762 ± 0.00393 mm
+5.00313 ± 0.00457 mm
+5.00510 ± 0.00265 mm
+
+Z in y for #5: 
+5.00102 ± 0.00271 mm
+5.00080 ± 0.00362 mm
+4.99830 ± 0.00087 mm
+4.99521 ± 0.00207 mm
+4.99294 ± 0.00180 mm
+
+Z on reference plane (Ave. Point): 
+0.01200 ± 0.00061 mm
+
+Z on reference plane (Ave. Dist.): 
+0.01200 ± 0.00065 mm
+
+Z on #4 (Ave. Point): 
+3.99968 ± 0.00964 mm
+
+Z on #4 (Ave. Dist.): 
+3.99968 ± 0.00730 mm
+
+Z on #5 (Ave. Point): 
+4.99765 ± 0.00461 mm
+
+Z on #4 (Ave. Dist.): 
+4.99765 ± 0.00734 mm
+(0.00000, 0.00000, 0.02757)| Ini. p.: (0.00000, 0.00000, 0.00000) | Dir: (-0.00005, -0.00006, 1.00000) | Len.:1.00000 |
+ and the standard deviation is 0.03489 mm.
+(0.00000, 0.00000, -0.08328)| Ini. p.: (0.00000, 0.00000, 0.00000) | Dir: (-0.00203, 0.00487, 0.99999) | Len.:1.00000 |
+ and the standard deviation is 0.00147 mm.
+(0.00000, 0.00000, 3.98250)| Ini. p.: (0.00000, 0.00000, 0.00000) | Dir: (-0.00325, -0.00027, 0.99999) | Len.:1.00000 |
+ and the standard deviation is 0.00597 mm.
+(0.00000, 0.00000, 5.06597)| Ini. p.: (0.00000, 0.00000, 0.00000) | Dir: (0.00135, 0.00012, 1.00000) | Len.:1.00000 |
+ and the standard deviation is 0.01115 mm.
+#4 is 3.95492 mm and #5 is 5.03840 mm.
