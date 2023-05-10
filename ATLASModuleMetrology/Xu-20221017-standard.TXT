@@ -1,0 +1,396 @@
+Xu-20221004-test.RTN
+================================================================================
+Header:   
+--------------------------------------------------------------------------------
+Setup:    
+================================================================================
+Step:  1           MM        Cart      Decimal Degree    Measure    Best Fit   
+ Plane                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -126.65350   +000.00000   +00.00000   +00.00000
+      Elevation         +089.81748   +000.00000   +00.00000   +00.00000
+      X Location        +041.62410   +000.00000   +00.00000   +00.00000
+      Y Location        -027.65245   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01451   +000.00000   +00.00000   +00.00000
+      Flatness          +000.00000                +00.00000
+ Hide Step: No     Skip Step: No
+Lens: 1x
+Points:      3     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  2           MM        Cart      Decimal Degree    Construct             
+ Datum Plane               Actual      Nominal    Upper Tol.  Lower Tol. 
+      Align XY Plane  
+      Set Z Axis        +000.00000
+Features:     1
+Reference Feature(s):        1
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  3           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +000.34615   +000.00000   +00.00000   +00.00000
+      Y Location        -000.00361   +000.00000   +00.00000   +00.00000
+      Z Location        -000.00407   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  4           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +001.50062   +000.00000   +00.00000   +00.00000
+      Y Location        -000.00126   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01683   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  5           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +000.01919   +000.00000   +00.00000   +00.00000
+      Y Location        -000.32473   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01917   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  6           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +000.09091   +000.00000   +00.00000   +00.00000
+      Y Location        -000.90008   +000.00000   +00.00000   +00.00000
+      Z Location        +000.02031   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  7           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +008.29216   +000.00000   +00.00000   +00.00000
+      Y Location        -068.83939   +000.00000   +00.00000   +00.00000
+      Z Location        +000.02124   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  8           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +010.00562   +000.00000   +00.00000   +00.00000
+      Y Location        -082.72192   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01686   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  9           MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +010.66565   +000.00000   +00.00000   +00.00000
+      Y Location        -082.85318   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01624   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  10          MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +014.80923   +000.00000   +00.00000   +00.00000
+      Y Location        -082.87430   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01082   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  11          MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +114.43610   +000.00000   +00.00000   +00.00000
+      Y Location        -004.54452   +000.00000   +00.00000   +00.00000
+      Z Location        -000.01143   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  12          MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +114.70973   +000.00000   +00.00000   +00.00000
+      Y Location        -000.75653   +000.00000   +00.00000   +00.00000
+      Z Location        -000.00193   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  13          MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +112.60040   +000.00000   +00.00000   +00.00000
+      Y Location        +000.00526   +000.00000   +00.00000   +00.00000
+      Z Location        +000.02903   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  14          MM        Cart      Decimal Degree    Measure               
+ Point                     Actual      Nominal    Upper Tol.  Lower Tol. 
+      X Location        +109.19634   +000.00000   +00.00000   +00.00000
+      Y Location        +000.01261   +000.00000   +00.00000   +00.00000
+      Z Location        +000.03379   +000.00000   +00.00000   +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: Maximum weak edge
+Points:      1     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  15          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -179.88351   +000.00000   +00.00000   +00.00000
+      Elevation         -001.03707   +000.00000   +00.00000   +00.00000
+      X Location        +000.92339   +000.00000   +00.00000   +00.00000
+      Y Location        -000.00243   +000.00000   +00.00000   +00.00000
+      Z Location        +000.00638   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):        4    3
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  16          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -082.89363   +000.00000   +00.00000   +00.00000
+      Elevation         +000.11206   +000.00000   +00.00000   +00.00000
+      X Location        +000.05505   +000.00000   +00.00000   +00.00000
+      Y Location        -000.61240   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01974   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):        5    6
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  17          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -082.96382   +000.00000   +00.00000   +00.00000
+      Elevation         -000.01794   +000.00000   +00.00000   +00.00000
+      X Location        +009.14889   +000.00000   +00.00000   +00.00000
+      Y Location        -075.78066   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01905   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):        7    8
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  18          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -000.29194   +000.00000   +00.00000   +00.00000
+      Elevation         -000.07503   +000.00000   +00.00000   +00.00000
+      X Location        +012.73744   +000.00000   +00.00000   +00.00000
+      Y Location        -082.86374   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01353   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):        9   10
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  19          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          +085.86840   +000.00000   +00.00000   +00.00000
+      Elevation         +000.14330   +000.00000   +00.00000   +00.00000
+      X Location        +114.57292   +000.00000   +00.00000   +00.00000
+      Y Location        -002.65052   +000.00000   +00.00000   +00.00000
+      Z Location        -000.00668   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       11   12
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  20          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          +179.87625   +000.00000   +00.00000   +00.00000
+      Elevation         +000.08003   +000.00000   +00.00000   +00.00000
+      X Location        +110.89837   +000.00000   +00.00000   +00.00000
+      Y Location        +000.00894   +000.00000   +00.00000   +00.00000
+      Z Location        +000.03141   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       13   14
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  21          MM        Cart      Decimal Degree    Construct  XYZ Plane  
+ Intersect                 Actual      Nominal    Upper Tol.  Lower Tol. 
+      Angle 1           +096.99076   +000.00000   +00.00000   +00.00000
+      X Location        -000.02049   +000.00000   +00.00000   +00.00000
+      Y Location        -000.00435   +000.00000   +00.00000   +00.00000
+      Z Location        +000.00392   +000.00000   +00.00000   +00.00000
+      1 of 2          
+      True Position     +000.00000                +00.00000    RFS      
+Features:     2
+Reference Feature(s):       15   16
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  22          MM        Cart      Decimal Degree    Construct  XYZ Plane  
+ Intersect                 Actual      Nominal    Upper Tol.  Lower Tol. 
+      Angle 1           +082.67186   +000.00000   +00.00000   +00.00000
+      X Location        +010.02141   +000.00000   +00.00000   +00.00000
+      Y Location        -082.84990   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01695   +000.00000   +00.00000   +00.00000
+      1 of 2          
+      True Position     +000.00000                +00.00000    RFS      
+Features:     2
+Reference Feature(s):       17   18
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  23          MM        Cart      Decimal Degree    Construct  XYZ Plane  
+ Intersect                 Actual      Nominal    Upper Tol.  Lower Tol. 
+      Angle 1           +094.00763   +000.00000   +00.00000   +00.00000
+      X Location        +114.76444   +000.00000   +00.00000   +00.00000
+      Y Location        +000.00062   +000.00000   +00.00000   +00.00000
+      Z Location        +000.01299   +000.00000   +00.00000   +00.00000
+      1 of 2          
+      True Position     +000.00000                +00.00000    RFS      
+Features:     2
+Reference Feature(s):       19   20
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  24          MM        Cart      Decimal Degree    Construct             
+ Datum Origin              Actual      Nominal    Upper Tol.  Lower Tol. 
+      Zero X Axis     
+      Zero Y Axis     
+      Zero Z Axis     
+      At Actual       
+Features:     1
+Reference Feature(s):       21
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  25          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          +000.00248   +000.00000   +00.00000   +00.00000
+      Elevation         +000.00453   +000.00000   +00.00000   +00.00000
+      X Location        +057.39247   +000.00000   +00.00000   +00.00000
+      Y Location        +000.00249   +000.00000   +00.00000   +00.00000
+      Z Location        +000.00453   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       21   23
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  26          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -083.08876   +000.00000   +00.00000   +00.00000
+      Elevation         +000.00895   +000.00000   +00.00000   +00.00000
+      X Location        +005.02095   +000.00000   +00.00000   +00.00000
+      Y Location        -041.42277   +000.00000   +00.00000   +00.00000
+      Z Location        +000.00652   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       21   22
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  27          MM        Cart      Decimal Degree    Measure               
+ Circle                    Actual      Nominal    Upper Tol.  Lower Tol. 
+      Diameter          +000.08028   +000.00000   +00.00000   +00.00000
+      X Location        +007.86950   +000.00000   +00.00000   +00.00000
+      Y Location        -056.36005   +000.00000   +00.00000   +00.00000
+      Z Location        +000.45918   +000.00000   +00.00000   +00.00000
+      XY Angle          -126.65350   +000.00000   +00.00000   +00.00000
+      Elevation         -089.81748   +000.00000   +00.00000   +00.00000
+      3D Circularity    +000.00118                +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: FeatureFinder
+Points:      7     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  28          MM        Cart      Decimal Degree    Measure               
+ Circle                    Actual      Nominal    Upper Tol.  Lower Tol. 
+      Diameter          +000.07927   +000.00000   +00.00000   +00.00000
+      X Location        +007.89758   +000.00000   +00.00000   +00.00000
+      Y Location        -056.66428   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46111   +000.00000   +00.00000   +00.00000
+      XY Angle          -126.65350   +000.00000   +00.00000   +00.00000
+      Elevation         -089.81748   +000.00000   +00.00000   +00.00000
+      3D Circularity    +000.00228                +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: FeatureFinder
+Points:      7     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  29          MM        Cart      Decimal Degree    Measure               
+ Circle                    Actual      Nominal    Upper Tol.  Lower Tol. 
+      Diameter          +000.07705   +000.00000   +00.00000   +00.00000
+      X Location        +007.71530   +000.00000   +00.00000   +00.00000
+      Y Location        -056.51976   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46068   +000.00000   +00.00000   +00.00000
+      XY Angle          +053.34650   +000.00000   +00.00000   +00.00000
+      Elevation         +089.81748   +000.00000   +00.00000   +00.00000
+      3D Circularity    +000.00109                +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: FeatureFinder
+Points:      5     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  30          MM        Cart      Decimal Degree    Measure               
+ Circle                    Actual      Nominal    Upper Tol.  Lower Tol. 
+      Diameter          +000.07256   +000.00000   +00.00000   +00.00000
+      X Location        +008.04218   +000.00000   +00.00000   +00.00000
+      Y Location        -056.50056   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46001   +000.00000   +00.00000   +00.00000
+      XY Angle          -126.65350   +000.00000   +00.00000   +00.00000
+      Elevation         -089.81748   +000.00000   +00.00000   +00.00000
+      3D Circularity    +000.00168                +00.00000
+      True Position     +000.00000                +00.00000    RFS      
+ Hide Step: No     Skip Step: No
+Lens: 1x     Target: FeatureFinder
+Points:      8     Data Stream: No
+--------------------------------------------------------------------------------
+Step:  31          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          -084.72531   +000.00000   +00.00000   +00.00000
+      Elevation         +000.36083   +000.00000   +00.00000   +00.00000
+      X Location        +007.88354   +000.00000   +00.00000   +00.00000
+      Y Location        -056.51217   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46015   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       27   28
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  32          MM        Cart      Decimal Degree    Construct             
+ Line                      Actual      Nominal    Upper Tol.  Lower Tol. 
+      XY Angle          +003.36118   +000.00000   +00.00000   +00.00000
+      Elevation         -000.11736   +000.00000   +00.00000   +00.00000
+      X Location        +007.87874   +000.00000   +00.00000   +00.00000
+      Y Location        -056.51016   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46035   +000.00000   +00.00000   +00.00000
+      3D Straightness   +000.00000                +00.00000
+Features:     2
+Reference Feature(s):       29   30
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
+Step:  33          MM        Cart      Decimal Degree    Construct  XYZ Plane  
+ Intersect                 Actual      Nominal    Upper Tol.  Lower Tol. 
+      Angle 1           +088.08726   +000.00000   +00.00000   +00.00000
+      X Location        +007.88333   +000.00000   +00.00000   +00.00000
+      Y Location        -056.50989   +000.00000   +00.00000   +00.00000
+      Z Location        +000.46024   +000.00000   +00.00000   +00.00000
+      1 of 2          
+      True Position     +000.00000                +00.00000    RFS      
+Features:     2
+Reference Feature(s):       31   32
+Data Stream: No
+ Hide Step: No     Skip Step: No
+--------------------------------------------------------------------------------
